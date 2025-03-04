@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Courses
+title: courses
 description: Attended/Attending Professional-Related Courses
 nav: true
 nav_order: 5
