@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: Courses
-description: Materials for courses you taught. Replace this text with your description.
+description: Attended/Attending Professional-Related Courses
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+| Course | Instructor | Grade |
+| :-----| :----- | :----- |
+| ROB-GY 6313 Robotic Gait and Manipulation | [Joo H. Kim](https://scholar.google.com/citations?user=A9kRCS0AAAAJ&hl=en) | In Progress |
+| ROB-UY 3203 Robot Vision | [Jing Zhang](https://scholar.google.com/citations?user=fRGFTaEAAAAJ&hl=en) | In Progress |
+| ROB-UY 2004 Robotic Manipulation and Locomotion  | [Ludovic Righetti](https://scholar.google.com/citations?user=LuA1j4oAAAAJ&hl=en) | A |
+| ECE-UY 3064 Feedback Control | [Ramin Eshaghi](https://www.linkedin.com/in/r-andy-eshaghi-39b1072/) | In Progress |
